@@ -23,7 +23,7 @@ sections:
           ##### dqdqdqsdqsqs
 
           ![](/images/about-5.jpg)
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
