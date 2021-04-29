@@ -4,8 +4,7 @@ subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
 date: '2020-06-02'
-categories:
-  - src/data/categories/tutorials.yaml
+categories: []
 tags:
   - src/data/tags/stackbit.yaml
   - src/data/tags/netlify.yaml
